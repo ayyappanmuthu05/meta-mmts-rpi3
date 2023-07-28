@@ -48,4 +48,4 @@ not land in the build folder.
 
 Then run 
 
-$ bitbake mmts-rpi3-base
+$bitbake mmts-rpi3-base
