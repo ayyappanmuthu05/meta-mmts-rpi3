@@ -39,3 +39,13 @@ II. Misc
 ========
 
 --- replace with specific information about the meta-mmts-rpi3 layer ---
+Run the script file as follows:
+
+$. mmts_rpi3_setup_environment.sh
+
+Note: there is a space between . and script file name and it is must ,otherwise after executing the script it will
+not land in the build folder.
+
+Then run 
+
+$ bitbake mmts-rpi3-base
